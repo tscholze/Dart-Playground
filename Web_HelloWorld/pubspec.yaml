@@ -1,0 +1,4 @@
+name: Web_HelloWorld
+description: A sample web application
+dependencies:
+  browser: any
